@@ -28,16 +28,20 @@
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonaDJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonaDJ&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="170" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonaDJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonaDJ&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jonaDJ&theme=tokyonight&hide_border=true" alt="streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonaDJ&theme=tokyonight" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonaDJ&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=jonaDJ&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonaDJ&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ## Tech Stack
@@ -60,28 +64,28 @@
 ## Featured Repositories
 <p align="center">
   <a href="https://github.com/jonaDJ/websites">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=websites&theme=tokyonight&hide_border=true" alt="websites repo card" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=websites&theme=tokyonight&hide_border=true" alt="websites repo card" />
   </a>
   <a href="https://github.com/jonaDJ/BrainoTopus">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=BrainoTopus&theme=tokyonight&hide_border=true" alt="BrainoTopus repo card" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=BrainoTopus&theme=tokyonight&hide_border=true" alt="BrainoTopus repo card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jonaDJ/netflix-like">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=netflix-like&theme=tokyonight&hide_border=true" alt="netflix-like repo card" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=netflix-like&theme=tokyonight&hide_border=true" alt="netflix-like repo card" />
   </a>
   <a href="https://github.com/jonaDJ/portfolio-repo">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=portfolio-repo&theme=tokyonight&hide_border=true" alt="portfolio-repo card" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=portfolio-repo&theme=tokyonight&hide_border=true" alt="portfolio-repo card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jonaDJ/ecommerce">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=ecommerce&theme=tokyonight&hide_border=true" alt="ecommerce repo card" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=ecommerce&theme=tokyonight&hide_border=true" alt="ecommerce repo card" />
   </a>
   <a href="https://github.com/jonaDJ/job-autofill-extension">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=job-autofill-extension&theme=tokyonight&hide_border=true" alt="job-autofill-extension card" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jonaDJ&repo=job-autofill-extension&theme=tokyonight&hide_border=true" alt="job-autofill-extension card" />
   </a>
 </p>
 
