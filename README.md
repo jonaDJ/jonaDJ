@@ -1,45 +1,70 @@
-# Hi, I'm JonaDJ 👋
+# Jon Darla (jonaDJ)
 
+Frontend-focused web developer building React and TypeScript projects, UI-heavy experiences, and practical portfolio apps.
 
-I'm a web developer who loves building websites! I enjoy experimenting with different JavaScript tools— it's like trying out cool new ingredients for a recipe.
+## Snapshot (February 27, 2026)
+- 20 public repositories
+- 14 original repositories
+- 6 forked repositories
+- 7 stars across original repositories
+- Based in the United States
 
-I'm also into helping out in the open-source community. It's like joining a big team to make awesome things together.
+## Featured Projects
+| Project | Stack | Link |
+|---|---|---|
+| Project Hub website | React, Vite, CSS | [websites](https://github.com/jonaDJ/websites) |
+| BrainoTopus puzzle app | TypeScript | [BrainoTopus](https://github.com/jonaDJ/BrainoTopus) |
+| Netflix-style UI clone | TypeScript | [netflix-like](https://github.com/jonaDJ/netflix-like) |
+| Portfolio repository | TypeScript | [portfolio-repo](https://github.com/jonaDJ/portfolio-repo) |
+| E-commerce frontend | JavaScript | [ecommerce](https://github.com/jonaDJ/ecommerce) |
+| Job autofill extension | JavaScript | [job-autofill-extension](https://github.com/jonaDJ/job-autofill-extension) |
 
-Let's chat about coding or anything tech! 🚀
+## Active Repository Focus
+- [websites](https://github.com/jonaDJ/websites): personal project hub
+- [BrainoTopus](https://github.com/jonaDJ/BrainoTopus): puzzle experience
+- [portfolio-repo](https://github.com/jonaDJ/portfolio-repo): portfolio codebase
+- [netflix-like](https://github.com/jonaDJ/netflix-like): streaming UI clone
+- [my-portfolio](https://github.com/jonaDJ/my-portfolio): personal portfolio project
+- [ecommerce](https://github.com/jonaDJ/ecommerce): storefront app
+- [job-autofill-extension](https://github.com/jonaDJ/job-autofill-extension): browser extension
 
+## Repository Index
+### Original repositories
+- [websites](https://github.com/jonaDJ/websites)
+- [BrainoTopus](https://github.com/jonaDJ/BrainoTopus)
+- [portfolio-repo](https://github.com/jonaDJ/portfolio-repo)
+- [netflix-like](https://github.com/jonaDJ/netflix-like)
+- [my-portfolio](https://github.com/jonaDJ/my-portfolio)
+- [ecommerce](https://github.com/jonaDJ/ecommerce)
+- [job-autofill-extension](https://github.com/jonaDJ/job-autofill-extension)
+- [cod](https://github.com/jonaDJ/cod)
+- [movieAPI](https://github.com/jonaDJ/movieAPI)
+- [blog-express-js](https://github.com/jonaDJ/blog-express-js)
+- [a-little-lemon-restaurant](https://github.com/jonaDJ/a-little-lemon-restaurant)
+- [vanilla-js-calculator](https://github.com/jonaDJ/vanilla-js-calculator)
+- [meta-course](https://github.com/jonaDJ/meta-course)
+- [jonaDJ](https://github.com/jonaDJ/jonaDJ) (this profile repo)
 
+### Forked repositories
+- [material-ui](https://github.com/jonaDJ/material-ui)
+- [gatsby](https://github.com/jonaDJ/gatsby)
+- [react](https://github.com/jonaDJ/react)
+- [practical-front-end-projects](https://github.com/jonaDJ/practical-front-end-projects)
+- [first-contributions](https://github.com/jonaDJ/first-contributions)
+- [react-dashboard](https://github.com/jonaDJ/react-dashboard)
 
+## Current Stack
+TypeScript, JavaScript, React, Vite, CSS, HTML, Node.js, GitHub Actions.
 
-###
+## GitHub Achievements
+- Pull Shark
+- Quickdraw
+- YOLO
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonaDJ&theme=dark&hide_border=false" height="200" alt="stats graph"  />
-</div>
-
-###
-
-
-# 📊 GitHub Stats:
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonaDJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaDJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="languages graph"  />
-</div>
-
-###
----
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=jonaDJ&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathd/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:jonathandarla255@gmail.com)
+## Connect
+- GitHub: https://github.com/jonaDJ
+- LinkedIn: https://www.linkedin.com/in/jonathd/
+- Email: mailto:jonathandarla255@gmail.com
 
 
 
