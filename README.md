@@ -44,6 +44,16 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonaDJ&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
+## Contribution Activity (Green)
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/40c463/jonaDJ" alt="github contribution heatmap" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=jonaDJ&theme=github-dark-green&hide_border=true" alt="contribution streak and days" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=jonaDJ&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="yearly contributions and top repos" />
+</p>
+
 ## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
