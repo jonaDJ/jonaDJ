@@ -42,7 +42,7 @@
 
 ## Contribution Activity (Green)
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/1f6f43/jonaDJ" alt="github contribution heatmap" />
+  <img width="100%" src="https://gh-heat.anishroy.com/api/jonaDJ/svg?theme=green&darkMode=true&transparent=true&showMonthLabels=true&showDayLabels=true&showLegend=false" alt="github contribution heatmap" />
 </p>
 
 <p align="center">
