@@ -1,73 +1,85 @@
-# Jon Darla (jonaDJ)
+<h1 align="center">Jon Darla (jonaDJ)</h1>
+<p align="center">Frontend Web Developer | React + TypeScript + UI Engineering</p>
 
-Frontend-focused web developer building React and TypeScript projects, UI-heavy experiences, and practical portfolio apps.
+<p align="center">
+  <a href="https://github.com/jonaDJ">
+    <img src="https://komarev.com/ghpvc/?username=jonaDJ&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/jonaDJ?tab=followers">
+    <img src="https://img.shields.io/github/followers/jonaDJ?label=Followers&style=flat&logo=github" alt="followers" />
+  </a>
+  <a href="https://github.com/jonaDJ?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievements-Pull%20Shark%20%7C%20Quickdraw%20%7C%20YOLO-2ea44f?style=flat&logo=github" alt="achievements" />
+  </a>
+</p>
 
-## Snapshot (February 27, 2026)
-- 20 public repositories
-- 14 original repositories
-- 6 forked repositories
-- 7 stars across original repositories
-- Based in the United States
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathd/">
+    <img src="https://img.shields.io/badge/LinkedIn-jonathd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:jonathandarla255@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://jonadj.github.io/websites/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio site" />
+  </a>
+</p>
 
-## Featured Projects
-| Project | Stack | Link |
-|---|---|---|
-| Project Hub website | React, Vite, CSS | [websites](https://github.com/jonaDJ/websites) |
-| BrainoTopus puzzle app | TypeScript | [BrainoTopus](https://github.com/jonaDJ/BrainoTopus) |
-| Netflix-style UI clone | TypeScript | [netflix-like](https://github.com/jonaDJ/netflix-like) |
-| Portfolio repository | TypeScript | [portfolio-repo](https://github.com/jonaDJ/portfolio-repo) |
-| E-commerce frontend | JavaScript | [ecommerce](https://github.com/jonaDJ/ecommerce) |
-| Job autofill extension | JavaScript | [job-autofill-extension](https://github.com/jonaDJ/job-autofill-extension) |
+## GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonaDJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaDJ&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="170" />
+</p>
 
-## Active Repository Focus
-- [websites](https://github.com/jonaDJ/websites): personal project hub
-- [BrainoTopus](https://github.com/jonaDJ/BrainoTopus): puzzle experience
-- [portfolio-repo](https://github.com/jonaDJ/portfolio-repo): portfolio codebase
-- [netflix-like](https://github.com/jonaDJ/netflix-like): streaming UI clone
-- [my-portfolio](https://github.com/jonaDJ/my-portfolio): personal portfolio project
-- [ecommerce](https://github.com/jonaDJ/ecommerce): storefront app
-- [job-autofill-extension](https://github.com/jonaDJ/job-autofill-extension): browser extension
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jonaDJ&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
-## Repository Index
-### Original repositories
-- [websites](https://github.com/jonaDJ/websites)
-- [BrainoTopus](https://github.com/jonaDJ/BrainoTopus)
-- [portfolio-repo](https://github.com/jonaDJ/portfolio-repo)
-- [netflix-like](https://github.com/jonaDJ/netflix-like)
-- [my-portfolio](https://github.com/jonaDJ/my-portfolio)
-- [ecommerce](https://github.com/jonaDJ/ecommerce)
-- [job-autofill-extension](https://github.com/jonaDJ/job-autofill-extension)
-- [cod](https://github.com/jonaDJ/cod)
-- [movieAPI](https://github.com/jonaDJ/movieAPI)
-- [blog-express-js](https://github.com/jonaDJ/blog-express-js)
-- [a-little-lemon-restaurant](https://github.com/jonaDJ/a-little-lemon-restaurant)
-- [vanilla-js-calculator](https://github.com/jonaDJ/vanilla-js-calculator)
-- [meta-course](https://github.com/jonaDJ/meta-course)
-- [jonaDJ](https://github.com/jonaDJ/jonaDJ) (this profile repo)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonaDJ&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
 
-### Forked repositories
-- [material-ui](https://github.com/jonaDJ/material-ui)
-- [gatsby](https://github.com/jonaDJ/gatsby)
-- [react](https://github.com/jonaDJ/react)
-- [practical-front-end-projects](https://github.com/jonaDJ/practical-front-end-projects)
-- [first-contributions](https://github.com/jonaDJ/first-contributions)
-- [react-dashboard](https://github.com/jonaDJ/react-dashboard)
+## Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions" />
+</p>
 
-## Current Stack
-TypeScript, JavaScript, React, Vite, CSS, HTML, Node.js, GitHub Actions.
+## Featured Repositories
+<p align="center">
+  <a href="https://github.com/jonaDJ/websites">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaDJ&repo=websites&theme=tokyonight&hide_border=true" alt="websites repo card" />
+  </a>
+  <a href="https://github.com/jonaDJ/BrainoTopus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaDJ&repo=BrainoTopus&theme=tokyonight&hide_border=true" alt="BrainoTopus repo card" />
+  </a>
+</p>
 
-## GitHub Achievements
-- Pull Shark
-- Quickdraw
-- YOLO
+<p align="center">
+  <a href="https://github.com/jonaDJ/netflix-like">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaDJ&repo=netflix-like&theme=tokyonight&hide_border=true" alt="netflix-like repo card" />
+  </a>
+  <a href="https://github.com/jonaDJ/portfolio-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaDJ&repo=portfolio-repo&theme=tokyonight&hide_border=true" alt="portfolio-repo card" />
+  </a>
+</p>
 
-## Connect
-- GitHub: https://github.com/jonaDJ
-- LinkedIn: https://www.linkedin.com/in/jonathd/
-- Email: mailto:jonathandarla255@gmail.com
+<p align="center">
+  <a href="https://github.com/jonaDJ/ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaDJ&repo=ecommerce&theme=tokyonight&hide_border=true" alt="ecommerce repo card" />
+  </a>
+  <a href="https://github.com/jonaDJ/job-autofill-extension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaDJ&repo=job-autofill-extension&theme=tokyonight&hide_border=true" alt="job-autofill-extension card" />
+  </a>
+</p>
 
-
-
-
-
-
+## Current Focus
+- Shipping polished frontend projects with strong UI/UX.
+- Growing open-source consistency and GitHub achievements.
+- Building portfolio-ready React/TypeScript applications.
